@@ -2,8 +2,6 @@
 
 Запись вебинара: https://a.teleboss.ru/play/b218962a-d681-43e4-acda-5cbc3b648b0a
 
-<br />
-
 ## Требования
 
 - Python (использовался 3.12.5)
