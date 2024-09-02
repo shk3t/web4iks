@@ -1,8 +1,6 @@
 # Считаем упущенную прибыль по остаткам товаров на складах при помощи Pandas
 
-## Запись вебинара
-
-https://a.teleboss.ru/play/b218962a-d681-43e4-acda-5cbc3b648b0a
+Запись вебинара: https://a.teleboss.ru/play/b218962a-d681-43e4-acda-5cbc3b648b0a
 
 <br />
 
